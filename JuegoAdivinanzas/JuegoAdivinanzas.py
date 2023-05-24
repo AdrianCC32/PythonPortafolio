@@ -33,7 +33,7 @@ class JuegoAdivinanzas:
         return set(self.palabra_oculta) == set(self.letras_adivinadas)
 
 def main():
-    palabras = ['python', 'programacion', 'computadora', 'openai', 'inteligencia']
+    palabras = ['python', 'programacion', 'computadora', 'agua', 'celular'
     juego = JuegoAdivinanzas(palabras)
 
     print('Bienvenido al juego de adivinanzas.')
