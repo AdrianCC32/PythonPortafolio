@@ -1,0 +1,4 @@
+Probablemente al correr este script no funcione, necesitas descargar los archivos "haarcascade_frontalface_default.xml", "shape_predictor_5_face_landmarks.dat" y "haarcascade_smile.xml"
+y reemplazarlos en la carpeta, puedes conseguirlos en los siguientes repositorios:
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+https://github.com/davisking/dlib-models/tree/master
